@@ -1,7 +1,7 @@
 # DummyAndroidProject
 
 public void thisIsANewMethod() {
-    int val = 0;
+    int val = 1;
 
 	for (int i = 0; i < 5; i++) {
 		val += i;
