@@ -12,15 +12,12 @@ public class android {
 
 	public static void main(String[] args) {
 		System.out.println("Hallo");
-<<<<<<< HEAD
         System.out.println("Nein");
 
 		thisIsANewMethod();
 
 		System.out.println(val);
-=======
         System.out.println("Denis");
->>>>>>> 8dd111644603ec48d88e66349c56b6ecbb4fa4da
 	}
 
 	public static int UpCount(){
