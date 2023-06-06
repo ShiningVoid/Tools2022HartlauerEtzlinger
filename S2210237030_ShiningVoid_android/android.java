@@ -1,8 +1,8 @@
 # DummyAnadroidProject
 
 public void thisIsANewMethod() {
-    
-        }
+    int val = 0;
+}
 
 public class android {
 	
