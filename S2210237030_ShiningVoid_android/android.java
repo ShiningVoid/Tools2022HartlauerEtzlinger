@@ -1,1 +1,5 @@
 # DummyAnadroidProject
+
+public void thisIsANewMethod() {
+    
+        }
