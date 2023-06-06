@@ -1,14 +1,22 @@
-# DummyAnadroidProject
+# DummyAndroidProject
 
 public void thisIsANewMethod() {
     int val = 0;
+
+	for (int i = 0; i < 5; i++) {
+		val += i;
+	}
 }
 
 public class android {
 	
 	public static void main(String[] args) {
 		System.out.println("Hallo");
-        System.out.println("Penis");
+        System.out.println("Nein");
+
+		thisIsANewMethod();
+
+		System.out.println(val);
 	}
 
 }
